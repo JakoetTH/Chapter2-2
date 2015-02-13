@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AeroplaneModule/AeroplaneModule.iml" filepath="$PROJECT_DIR$/AeroplaneModule/AeroplaneModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter2-2.iml" filepath="$PROJECT_DIR$/Chapter2-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlightModule/FlightModule.iml" filepath="$PROJECT_DIR$/FlightModule/FlightModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PassengerModule/PassengerModule.iml" filepath="$PROJECT_DIR$/PassengerModule/PassengerModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TicketModule/TicketModule.iml" filepath="$PROJECT_DIR$/TicketModule/TicketModule.iml" />
+    </modules>
+  </component>
+</project>
